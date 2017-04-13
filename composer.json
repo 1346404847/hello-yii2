@@ -1,0 +1,23 @@
+{
+    "name": "1346404847/hell-yii2",
+    "description": "say hello for yii Framework 2.0",
+    "keywords":["yii","yii2","extension","hello"],
+    "homepage":"https://github.com/1346404847/hello-yii2",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "minimum-stability": "dev",
+    "authors":[
+        {
+            "name":"lulubin",
+            "email":"1346404847@qq.com",
+            "homepage":"https://github.com"
+               
+        }
+     ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "luluyii\\hello\\":""
+        }
+    }
+}
